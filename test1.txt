@@ -1,1 +1,3 @@
-This is test 1 from feature branch
+This is test 1 from feature branch.
+This is 2nd line.
+This is 3rd line.
