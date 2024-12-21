@@ -1,1 +1,2 @@
-This is test 1 from feature branch
+This is test 1 from feature branch.
+This is test 1 second lind
